@@ -1,0 +1,13 @@
+{
+  "id" : "https://hdevoinnelson.github.io/IIIFTest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in hdevoinnelson/IIIFTest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://hdevoinnelson.github.io/IIIFTest/manifests/manifest2.json",
+    "label" : "This is a manifest test."
+  } ]
+}
