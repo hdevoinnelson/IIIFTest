@@ -3,6 +3,11 @@
   "@id" : "https://hdevoinnelson.github.io/IIIFTest/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "This is a manifest test.",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/132527223/8906914896c706da4afc7409b058fb29/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "This is an image of a flower stall taken in Ben Thanh Market in Ho Chi Minh City, Vietnam.",
@@ -46,6 +51,11 @@
           "width" : 3024
         },
         "on" : "http://5d03d041-e4f8-4d74-b36f-4da7969ea497"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://hdevoinnelson.github.io/IIIFTest/annotations/05f1ecd9159af3a20f76325d6d353c04.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
