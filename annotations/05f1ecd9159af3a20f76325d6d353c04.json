@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Yellow flowers",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Yellow flowers</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/132527223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-03T14:08:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743689308820",
+    "dcterms:modified" : "2025-04-03T14:08:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hdevoinnelson.github.io/IIIFTest/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1058,2893,883,825"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1187.22554,3014.29913c81.52095,-69.30971 196.51945,-120.92231 312.07523,-120.86064v0v0c115.55578,0.06166 216.22425,48.34441 312.07523,120.86064c95.85098,72.51623 133.10704,183.01696 129.26579,291.7834c-3.84124,108.76644 -48.77979,215.79859 -129.26579,291.7834c-80.486,75.98482 -196.51945,120.92231 -312.07523,120.86064c-115.55578,-0.06166 -230.63389,-45.12248 -312.07523,-120.86064c-81.44133,-75.73816 -129.24589,-182.15367 -129.26579,-291.7834c-0.0199,-109.62973 47.74485,-222.47369 129.26579,-291.7834z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_de08cddd-58af-411d-86ff-6a991f4f1b8f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0400ff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5d03d041-e4f8-4d74-b36f-4da7969ea497"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pink flower",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pink flower</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/132527223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-03T14:09:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743689353307",
+    "dcterms:modified" : "2025-04-03T14:09:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hdevoinnelson.github.io/IIIFTest/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1305,2117,623,512"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1395.85251,2191.91214c57.4978,-42.9846 138.60776,-74.99377 220.11078,-74.95553v0v0c81.50302,0.03824 152.50582,29.98231 220.11078,74.95553c67.60496,44.97322 93.88215,113.50372 91.17287,180.95865c-2.70928,67.45493 -34.40503,133.83428 -91.17287,180.95865c-56.76784,47.12437 -138.60776,74.99377 -220.11078,74.95553c-81.50302,-0.03824 -162.66913,-27.98412 -220.11078,-74.95553c-57.44165,-46.9714 -91.15883,-112.96832 -91.17287,-180.95865c-0.01404,-67.99033 33.67507,-137.97405 91.17287,-180.95865z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_8f0aae02-70b7-428c-9493-1a745ad43470\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0400ff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5d03d041-e4f8-4d74-b36f-4da7969ea497"
+    } ]
+  } ],
+  "@id" : "https://hdevoinnelson.github.io/IIIFTest/annotations/05f1ecd9159af3a20f76325d6d353c04.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
