@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://hdevoinnelson.github.io/IIIFTest/annotations/05f1ecd9159af3a20f76325d6d353c04.json" ],
+  "@id" : "https://hdevoinnelson.github.io/IIIFTest/annotations/collection.json",
+  "label" : "All annotations loaded in hdevoinnelson/IIIFTest project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
